@@ -1,6 +1,6 @@
 # KS2.5
 
-Custom KS2.5 for within-lab use.
+Custom Kilosort S2.5 for within-lab use.
 
 ## Getting started
 
